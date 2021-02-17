@@ -1,3 +1,3 @@
 # CoronavirusDataBase
-Hello, this is the begining of a great story 
-This has been a change that i have done cause i wanted
+Hello, this is the beginning of a great story 
+This has been a change that I have done cause I wanted
